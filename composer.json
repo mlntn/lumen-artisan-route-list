@@ -1,0 +1,23 @@
+{
+  "name": "mlntn/lumen-artisan-route-list",
+  "type": "library",
+  "description": "artisan route:list for Lumen projects",
+  "keywords": [
+    "lumen",
+    "artisan"
+  ],
+  "homepage": "http://github.com/mlntn/lumen-artisan-route-list",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jared Mellentine",
+      "email": "jared@mellentine.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
